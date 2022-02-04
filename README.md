@@ -5,6 +5,6 @@
 Спочатку я створила змінну, звідки би програма брала дані. 
 Це представлено на фото 1. 
 ##### Фото 1 
-![]() 
+![](https://github.com/ppc-ntu-khpi/java-methods-vladavasileva/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1.PNG) 
 
 
