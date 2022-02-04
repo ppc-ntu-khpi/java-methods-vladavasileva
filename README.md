@@ -15,7 +15,7 @@
 ![](https://github.com/ppc-ntu-khpi/java-methods-vladavasileva/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA3.PNG) 
 
 **Результат вийшов таким :**
-![](**https://github.com/ppc-ntu-khpi/java-methods-vladavasileva/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA4.PNG**)
+![](https://github.com/ppc-ntu-khpi/java-methods-vladavasileva/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA4.PNG)
 
 
 
